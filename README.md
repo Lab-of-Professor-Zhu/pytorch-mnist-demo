@@ -13,7 +13,7 @@ mkdir *** && cd *** (*** is your name)
 ```
 Fourth, clone remote repository to local (your folder).  
 ```
-git clone git@github.com:Lab-of-Professor-Zhu/pytorch-mnist-demo.git
+git clone https://github.com/Lab-of-Professor-Zhu/pytorch-mnist-demo.git
 ```
 Fifth, enter this folder and run code.  
 ```
